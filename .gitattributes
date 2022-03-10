@@ -29,3 +29,4 @@
 KawaiiKarnage.sln filter=lfs diff=lfs merge=lfs -text
 *.cpp filter=lfs diff=lfs merge=lfs -text
 *.h filter=lfs diff=lfs merge=lfs -text
+*.pak filter=lfs diff=lfs merge=lfs -text
