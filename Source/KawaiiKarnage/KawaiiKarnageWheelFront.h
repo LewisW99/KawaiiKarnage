@@ -1,22 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-#pragma once
-
-#include "CoreMinimal.h"
-#include "VehicleWheel.h"
-#include "KawaiiKarnageWheelFront.generated.h"
-
-PRAGMA_DISABLE_DEPRECATION_WARNINGS
-
-UCLASS()
-class UKawaiiKarnageWheelFront : public UVehicleWheel
-{
-	GENERATED_BODY()
-
-public:
-	UKawaiiKarnageWheelFront();
-};
-
-PRAGMA_ENABLE_DEPRECATION_WARNINGS
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2d9056311dcb68bf566454ca1d07060b6afa6f00ae24860fc280cf3bcb4a181
+size 386
